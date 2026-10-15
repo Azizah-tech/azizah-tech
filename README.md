@@ -1,8 +1,5 @@
 ## Hi, I'm Azizah👋
 
-<!--
-**Azizah-tech/azizah-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="center">Informatics Student | Networking Background | Cybersecurity Enthusiast</h3>
 
 ### 👨‍💻 About Me
